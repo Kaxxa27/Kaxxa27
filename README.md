@@ -28,14 +28,14 @@ internal class Program
 
 - 🌱 I’m currently learning ASP.NET Core MVC & C#
   
-- ⚡ Fun fact: I use tabs over spaces  
+- 💬 Ask me about anything, I am happy to help you
   
 <br/>  
 
 ## 🔧 Technologies & Tools  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### <div align="center">Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -44,7 +44,7 @@ internal class Program
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### <div align="center">Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -56,7 +56,7 @@ internal class Program
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### <div align="center">DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -68,11 +68,6 @@ internal class Program
 
 <br/>  
 
-## 📬 Connect with Me  
-<a href="https://github.com/Kaxxa27" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
 
 <br/>  
 
