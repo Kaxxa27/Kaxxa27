@@ -1,26 +1,39 @@
-### <div align="center">Hello Everybody 👋
-I’m Eugene 👨‍🎓 and I’m a Junior .NET Developer 💻. Welcome to my github profile 🕵️‍♂️</div>  
+# Hello there 👋
+
+```C#
+namespace ProfileGitHub;
+
+public class SoftwareEngineer
+{
+	private string Name { get; set; } = "Eugene";
+
+	private string Role { get; set; } = "Junior .NET Developer";
+
+	private List<string> Language_Spoken { get; set; } = new() { "RUS", "EN" };
+
+	public string Hello_Everyone() => @$"I’m {Name} 🎓 and I’m a {Role} 💻. Welcome to my github profile 🕵!";
+}
+internal class Program
+{
+	static void Main(string[] args)
+	{
+		SoftwareEngineer Me = new();
+		Me.Hello_Everyone();
+	}
+}
+```
+
+- 🔭 I’m currently working on [TaxiApplication](https://github.com/Kaxxa27/TaxiApplication)  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🌱 I’m currently learning ASP.NET Core MVC & C#
   
-
-- 🌱 I’m currently learning ASP.NET Core MVC  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -30,8 +43,6 @@ I’m Eugene 👨‍🎓 and I’m a Junior .NET Developer 💻. Welcome to my g
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -45,8 +56,6 @@ I’m Eugene 👨‍🎓 and I’m a Junior .NET Developer 💻. Welcome to my g
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -59,7 +68,6 @@ I’m Eugene 👨‍🎓 and I’m a Junior .NET Developer 💻. Welcome to my g
 
 <br/>  
 
-
 ## Connect with me  
 <a href="https://github.com/Kaxxa27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,12 +76,8 @@ I’m Eugene 👨‍🎓 and I’m a Junior .NET Developer 💻. Welcome to my g
 
 <br/>  
 
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Kaxxa27&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaxxa27&hide_border=true&layout=compact" align="left" style="width: 100%" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
