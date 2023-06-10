@@ -32,7 +32,7 @@ internal class Program
   
 <br/>  
 
-## My Skill Set  
+## 🔧 Technologies & Tools  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -68,7 +68,7 @@ internal class Program
 
 <br/>  
 
-## Connect with me  
+## 📬 Connect with Me  
 <a href="https://github.com/Kaxxa27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -76,8 +76,11 @@ internal class Program
 
 <br/>  
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Kaxxa27&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaxxa27&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## ⚡ Github Stats
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaxxa27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaxxa27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
 <br />
