@@ -23,7 +23,7 @@ internal class Program
 }
 ```
 
-- 🔭 I’m currently working on [TaxiApplication](https://github.com/Kaxxa27/TaxiApplication)  
+- 🔭 I’m currently working on [ASP.NET-Taxi-Aggregator](https://github.com/Kaxxa27/TaxiApplication)  
   
 
 - 🌱 I’m currently learning ASP.NET Core MVC & C#
