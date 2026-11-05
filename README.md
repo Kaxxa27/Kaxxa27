@@ -12,6 +12,8 @@
 
 </div>
 
+<!-- Temporarily hidden: About me, Experience, Education, Certifications, Tech stack
+
 ---
 
 ### 👨‍💻 About me
@@ -116,6 +118,8 @@ public sealed class SoftwareEngineer
 <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,androidstudio&theme=dark" />
 
 </div>
+
+-->
 
 ---
 
