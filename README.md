@@ -123,8 +123,6 @@ public sealed class SoftwareEngineer
 
 ---
 
-### ⚡ GitHub stats
-
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaxxa27&theme=radical" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaxxa27&theme=radical" alt="Top languages by commit" />
