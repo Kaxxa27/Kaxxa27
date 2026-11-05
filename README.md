@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6A88&height=180&section=header&text=Yauheni%20Kakhnouski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Devscribed%20%C2%B7%20Minsk%2C%20Belarus&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6A88&height=180&section=header&text=Yauheni%20Kakhnouski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Devscribed&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Devscribed;C%23+%C2%B7+ASP.NET+Core+%C2%B7+.NET;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+React;Lecturer+%26+Mentor+%40+Simulative;AWS+%C2%B7+Docker+%C2%B7+PostgreSQL" alt="Typing SVG" /></a>
 
@@ -22,13 +22,10 @@ public sealed class SoftwareEngineer
     public string Name      => "Yauheni (Eugene) Kakhnouski";
     public string Role      => "Software Engineer @ Devscribed";
     public string SideRole  => "Lecturer & Mentor @ Simulative";
-    public string Location  => "Minsk, Belarus 🇧🇾";
     public string Education => "BSUIR, B.Sc. in Computer Software Engineering (2021–2025)";
 
     public string[] Stack   => [".NET", "ASP.NET Core", "TypeScript", "React", "PostgreSQL", "AWS"];
     public string[] Spoken  => ["Russian", "English"];
-
-    public string FunFact   => "I use tabs over spaces";
 }
 ```
 
@@ -47,7 +44,7 @@ public sealed class SoftwareEngineer
     </td>
     <td>
       <h4>💻 Software Engineer · Devscribed</h4>
-      <sub>Full-time · Remote · California, US</sub><br/><br/>
+      <sub>Full-time · Remote</sub><br/><br/>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
     </td>
@@ -58,7 +55,7 @@ public sealed class SoftwareEngineer
     </td>
     <td>
       <h4>🧑‍🏫 Lecturer & Mentor · Simulative</h4>
-      <sub>Part-time · Remote · Moscow, Russia</sub><br/><br/>
+      <sub>Part-time · Remote</sub><br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
@@ -69,7 +66,7 @@ public sealed class SoftwareEngineer
     </td>
     <td>
       <h4>🧩 Full-stack .NET Developer · Dev Team Inc</h4>
-      <sub>Full-time · Remote · California, US</sub><br/><br/>
+      <sub>Full-time · Remote</sub><br/><br/>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
     </td>
